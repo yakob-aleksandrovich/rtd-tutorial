@@ -9,6 +9,10 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Let's introduce Hebrew to the mix.
+שְׁלֹש
+
+
 .. note::
 
    This project is under active development.
