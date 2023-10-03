@@ -51,8 +51,9 @@ latex_elements = {
 
      # Additional stuff for the LaTeX preamble.
      #
-     # \setmainfont{SBL Hebrew}
+     # 
      'preamble': r'''
+\setmainfont{SBL Hebrew}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
