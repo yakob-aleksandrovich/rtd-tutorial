@@ -6,7 +6,7 @@ build:
     python: "3.10"
   jobs:
     pre_build:
-      - wget https://www.sbl-site.org/Fonts/SBL_Hbrw.ttf -O /usr/share/fonts/SBL_Hbrw.ttf
+      - sudo wget https://www.sbl-site.org/Fonts/SBL_Hbrw.ttf -O /usr/share/fonts/SBL_Hbrw.ttf
       - fc-cache -f
 
 python:
