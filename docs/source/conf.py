@@ -51,9 +51,17 @@ latex_elements = {
 
      # Additional stuff for the LaTeX preamble.
      #
-     # 
+     # \setmainfont{SBL Hebrew}
+     #
+     # Serif: Charter 
+     # Sans-serif: Lato
+     # Monospace: Inconsolata
+     #
+
      'preamble': r'''
-\setmainfont{SBL Hebrew}
+\usepackage{charter}
+\usepackage[defaultsans]{lato}
+\usepackage{inconsolata}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
