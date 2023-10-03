@@ -56,12 +56,12 @@ latex_elements = {
      # Serif: Charter 
      # Sans-serif: Lato
      # Monospace: Inconsolata
+     # \usepackage{charter}
+     # \usepackage[defaultsans]{lato}
+     # \usepackage{inconsolata}
      #
 
      'preamble': r'''
-\usepackage{charter}
-\usepackage[defaultsans]{lato}
-\usepackage{inconsolata}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
