@@ -47,7 +47,7 @@ latex_elements = {
      #
      # 'pointsize': '10pt',
 
-     #'label': '\\usepackage[english]{babel}',
+     'label': '\\usepackage[english]{babel}',
 
      # Additional stuff for the LaTeX preamble.
      #
