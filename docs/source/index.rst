@@ -12,6 +12,9 @@ how to :ref:`installation` the project.
 Let's introduce Hebrew to the mix.
 שְׁלֹש
 
+And another line
+
+וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י אֹ֑ור וַֽיְהִי־אֹֽור׃
 
 .. note::
 
