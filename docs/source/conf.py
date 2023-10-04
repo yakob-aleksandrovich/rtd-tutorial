@@ -62,6 +62,7 @@ latex_elements = {
      #
 
      'preamble': r'''
+\usepackage{helvet}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
