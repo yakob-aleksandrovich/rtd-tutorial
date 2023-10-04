@@ -12,6 +12,10 @@ how to :ref:`installation` the project.
 Let's introduce Hebrew to the mix.
 ----------------------------------
 
+Yahweh
+
+יהוה
+
 In the following example, the noun אוֹר (light) is masculine in form and takes grammatically-masculine verbs (יְהִ֣י and וַֽיְהִי).
 Example: GEN 1:3¶
 
