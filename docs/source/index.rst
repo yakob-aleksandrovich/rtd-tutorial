@@ -12,9 +12,25 @@ how to :ref:`installation` the project.
 Let's introduce Hebrew to the mix.
 ----------------------------------
 
-Shekina Yahweh
+Shekina **<breaking char>** Yahweh
 
-יהוה-שְׁכִינָה
+Dot
+יהוה.שְׁכִינָה
+
+Dash
+יהו-.שְׁכִינָה
+
+Space
+יהוה שְׁכִינָה
+
+NBSP
+יהוה שְׁכִינָה
+
+Comma
+יהוה,שְׁכִינָה
+
+Ampersand
+יהוה&שְׁכִינָה
 
 In the following example, the noun אוֹר (light) is masculine in form and takes grammatically-masculine verbs (יְהִ֣י and וַֽיְהִי).
 Example: GEN 1:3¶
