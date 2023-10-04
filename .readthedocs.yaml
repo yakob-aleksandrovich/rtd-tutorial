@@ -6,7 +6,7 @@ build:
     python: "3.10"
   jobs:
     pre_build:
-      - mkdir $READTHEDOCS_OUTPUT/pdf
+      - mkdir -p $READTHEDOCS_OUTPUT/pdf
       - wget https://www.sbl-site.org/Fonts/SBL_Hbrw.ttf -O $READTHEDOCS_OUTPUT/pdf/SBL_Hbrw.ttf
     
 python:
