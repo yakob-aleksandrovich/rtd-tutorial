@@ -62,7 +62,7 @@ latex_elements = {
      #
 
      'preamble': r'''
-\usepackage{helvet}
+\setmainfont[Path=./fonts/]{SBL Hebrew}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
