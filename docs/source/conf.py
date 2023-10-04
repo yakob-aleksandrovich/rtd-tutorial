@@ -52,7 +52,6 @@ latex_elements = {
      # Additional stuff for the LaTeX preamble.
      #
      # \setmainfont{SBL Hebrew}
-     # \setmainfont{SBL_Hbrw.ttf}
      #
      # Serif: Charter 
      # Sans-serif: Lato
@@ -63,6 +62,7 @@ latex_elements = {
      #
 
      'preamble': r'''
+\setmainfont{SBL_Hbrw.ttf}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
