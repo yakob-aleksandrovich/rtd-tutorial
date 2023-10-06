@@ -46,22 +46,13 @@ latex_elements = {
      # The font size ('10pt', '11pt' or '12pt').
      #
      # 'pointsize': '10pt',
-
-     'label': '\\usepackage[english]{babel}',
-
+     #
      # Additional stuff for the LaTeX preamble.
-     #
-     # \setmainfont{SBL_Hbrw.ttf}
-     #
-     # Serif: Charter 
-     # Sans-serif: Lato
-     # Monospace: Inconsolata
-     # \usepackage{charter}
-     # \usepackage[defaultsans]{lato}
-     # \usepackage{inconsolata}
+     # (Currently, we don't do LaTeX -> PDF, because of issues with word order in Hebrew)
      #
 
      'preamble': r'''
+\setmainfont{SBL_Hbrw.ttf}
 \XeTeXlinebreaklocale "he"
 \XeTeXlinebreakskip = 0pt plus 1pt
 '''
